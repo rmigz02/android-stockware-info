@@ -1,21 +1,21 @@
 # Format:
 
-# App name: Facebook App Installer
-# Package name: com.facebook.system
+# App name:
+# Package name:
 # Reasons not to remove:
 # Reasons to remove:
 
 App name: Facebook App Installer
 Package name: com.facebook.system
-Reasons not to remove:
+Reasons not to remove: 
 Reasons to remove:
 
 App name: Facebook App Manager
 Package name: com.facebook.appmanager
-Reasons not to remove:
-Reasons to remove:
+Reasons not to remove: 
+Reasons to remove: 
 
 App name: Facebook Services
 Package name: com.facebook.services
-Reasons not to remove:
-Reasons to remove:
+Reasons not to remove: 
+Reasons to remove: 
