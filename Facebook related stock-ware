@@ -8,14 +8,14 @@
 App name: Facebook App Installer
 Package name: com.facebook.system
 Reasons not to remove: Automatically updates Facebook apps
-Reasons to remove: Increased privacy. Less data usage. Less usage on resources.
+Reasons to remove: Increased privacy. Less usage on device resources.
 
 App name: Facebook App Manager
 Package name: com.facebook.appmanager
 Reasons not to remove: N/A
-Reasons to remove: Increased privacy. Less data usage. Less usage on resources.
+Reasons to remove: Increased privacy. Less usage on device resources.
 
 App name: Facebook Services
 Package name: com.facebook.services
-Reasons not to remove: Unspecified
-Reasons to remove: Increased privacy. Less data usage. Less usage on resources.
+Reasons not to remove: Unspecified yet
+Reasons to remove: Increased privacy. Less usage on device resources.
